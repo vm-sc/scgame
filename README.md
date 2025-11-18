@@ -12,6 +12,10 @@ It's fine if it ends up a mess, it's more fun that way!
 ## Ideas
 
 - camera movement
-- something dangerous
+- an enemy?
+- random bullets to dodge?
 - something to collect
 - health maybe?
+- a wall to walk into?
+
+really, anything you want to add to the game!
